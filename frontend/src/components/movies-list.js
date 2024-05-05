@@ -150,12 +150,12 @@ const MoviesList= props => {
                                     </Card.Body>
                                 </Card>
                             </Col>
-                        ))}
+                    ))}
                 </Row>
                 <br/>
                 <Button
                     color='primary'
-                    style={{margin: '2rem'}}
+                    style={{marginLeft: '22rem', marginRight: '1.5rem'}}
                     onClick={() => {if(currentPage > 0) setCurrentPage(currentPage - 1)}}
                 >
                     Get Previous Page results
