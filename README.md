@@ -1,8 +1,41 @@
-To run the application use the command npm start after navigating into the frontend directory
+# Movie Review Web App
 
-This web app uses MongoDB Atlas, Express JS, React JS, and Node JS.
-This application uses data for the movies taken from a sample collection of MongoDB Atlas.
-Review Movies Like IMDB!
-To post a review use this sample login username and ID to login and post a review:
-Username: Robert Baratheon
-ID: 59b99db4cfa9a34dcd7885b7
+## Overview
+
+This web application allows users to review movies similar to IMDb. The app uses the following technologies:
+- MongoDB Atlas
+- Express JS
+- React JS
+- Node JS
+
+## Features
+
+- Review movies like IMDb.
+- Post and read movie reviews.
+
+## Setup
+
+1. **Navigate to the frontend directory:**
+   ```bash
+   cd frontend
+   ```
+
+2. **Install dependencies:**
+   ```bash
+   npm install
+   ```
+
+3. **Run the application:**
+   ```bash
+   npm start
+   ```
+
+## Database
+
+The application uses a sample collection of movies from MongoDB Atlas.
+
+## Sample Login
+
+To post a review, use the following sample login credentials:
+- **Username:** Robert Baratheon
+- **ID:** 59b99db4cfa9a34dcd7885b7
