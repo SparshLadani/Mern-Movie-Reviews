@@ -37,5 +37,5 @@ The application uses a sample collection of movies from MongoDB Atlas.
 ## Sample Login
 
 To post a review, use the following sample login credentials:
-- **Username:** Robert Baratheon
+- **Username:** Sparsh Ladani
 - **ID:** 59b99db4cfa9a34dcd7885b7
